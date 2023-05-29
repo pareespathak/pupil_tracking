@@ -42,6 +42,7 @@ pics
 
 ## Experimental Setup:
 ![Gaze Tracking PPT](https://github.com/pareespathak/pupil_tracking/assets/64767345/5a06e582-12b2-43ac-8f79-9e02777a4d37) | ![ezgif com-optimize](https://github.com/pareespathak/pupil_tracking/assets/64767345/de750605-c2dc-40cd-a0ba-588c12ded5ed)
+-------------------------------------------------- | --------------------------------------------------------
 
 ### Results:
 (pupil projection)
