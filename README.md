@@ -32,17 +32,6 @@ To find eye key points we use dlib to detect facial points. Then select the eye 
 Pupil left right centre 
 gif
 
-
-### Head Pose Results
- 
-pics 
-
-### Lane and Road Sign Detection Results 
-
-Lane Detection  
-
-
-
 ## Experimental Setup:
 <img src="https://github.com/pareespathak/pupil_tracking/assets/64767345/5a06e582-12b2-43ac-8f79-9e02777a4d37" height="300">  | <img src="https://github.com/pareespathak/pupil_tracking/assets/64767345/de750605-c2dc-40cd-a0ba-588c12ded5ed" height="300">
 -------------------------------------------------- | --------------------------------------------------------
@@ -59,3 +48,8 @@ Heat Map generated for pupil coordinates to identify areas of max concentration 
 
 
 * For eye detection and tracking: https://github.com/antoinelame/GazeTracking
+
+
+Contributors:
+@SIDDXSingh  
+@rajashreetekaday
